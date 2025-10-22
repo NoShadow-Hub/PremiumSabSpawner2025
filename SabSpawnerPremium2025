@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DupeNew/bot/refs/heads/main/brainrotspawner"))()
+loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/visual2.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoShadow-Hub/SabScripts2025V2/refs/heads/main/PremiumSabSpawner"))()
